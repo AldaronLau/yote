@@ -1,0 +1,15 @@
+[package]
+name = "yote"
+version = "0.0.0"
+authors = ["Jeron Aldaron Lau <jeronaldaron@gmail.com>"]
+edition = "2018"
+
+license = "MIT / BSL-1.0"
+description = "The Yeet Programming Language REPL."
+homepage = "https://yeet-lang.github.io/"
+repository = "https://github.com/yeet-lang/yote"
+readme = "README.md"
+keywords = ["yeet", "compiler", "interpreter", "yote"]
+categories = ["command-line-utilities", "development-tools::build-utils", "graphics", "text-editors", "visualization"]
+
+[dependencies]
